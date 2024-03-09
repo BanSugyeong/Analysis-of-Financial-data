@@ -17,3 +17,4 @@ Create user-optimized cards through financial data analysis
 
 8. 모델 배포 및 유지보수: 모델을 실제 환경에 배포하고 필요한 경우 주기적으로 모델을 업데이트하여 성능을 유지하고 개선합니다.
 
+- 금융데이터를 이용해 성 연령대별 사용형식을 분석함 
